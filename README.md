@@ -1,4 +1,4 @@
-### Hi there 👋
+## Bienvenue sur mon profil 🤗
 
 <!--
 **eliooooooo/eliooooooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Étudiant dans le domaine du web, je suis passionné par le ==développement web==. Je le pratique dans mes études mais aussi sur mon temps libre.
+Les projets que vous pourrez trouver sur on profil sont soit issus de mes **études**, soit de mes **projets personnels**. 👌
+
+### Mes centres d'interets :
+
+
+
+
+
