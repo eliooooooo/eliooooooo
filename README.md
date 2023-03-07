@@ -21,7 +21,7 @@ Les projets que vous pourrez trouver sur mon profil sont, soit issus de mes **é
 ### Mes centres d'intérêts :
 
 Je suis passioné par : 
- > - Le développement web 💻
+ > - **Le développement web** 💻
  > - Les jeux vidéos 🎮
  > - L' art 👨‍🎨
  > - Le sport (Escalade, surf...) 🧗‍♂️
@@ -29,8 +29,8 @@ Je suis passioné par :
 ### Mes langages de programmation :
 
 Je maîtrise : 
- > - HTLM / CSS 🏅
- > - TWIG 🏅
+ > - **HTLM / CSS** 🏅
+ > - **TWIG** 🏅
  > - PHP 🥇
  > - Python 🥈
  > - SQL 🥈
