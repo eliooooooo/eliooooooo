@@ -15,32 +15,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Étudiant dans le domaine du web, je suis passionné par le *développement web*. Je le pratique dans mes études mais aussi sur mon temps libre.
-Les projets que vous pourrez trouver sur on profil sont soit issus de mes **études**, soit de mes **projets personnels**. 👌
+Étudiant dans le domaine du web et passionné par le *développement web*. Je le pratique dans mes études mais aussi sur mon temps libre.
+Les projets que vous pourrez trouver sur mon profil sont, soit issus de mes **études**, soit de mes **projets personnels**. 👌
 
-### Mes centres d'interets :
+### Mes centres d'intérêts :
 
 Je suis passioné par : 
  > - Le développement web 💻
- >  - Les jeux vidéos 🎮
- >  - L' art 👨‍🎨
- >  - Le sport (Escalade, surf...) 🧗‍♂️
+ > - Les jeux vidéos 🎮
+ > - L' art 👨‍🎨
+ > - Le sport (Escalade, surf...) 🧗‍♂️
 
-### Mes langages de programmation maîtrisés :
+### Mes langages de programmation :
 
 Je maîtrise : 
  > - HTLM / CSS 🏅
-   - TWIG 🏅
-   - PHP 🥇
-   - Python 🥈
-   - SQL 🥈
-   - JavaScript (en apprentissage) 🥉
+ > - TWIG 🏅
+ > - PHP 🥇
+ > - Python 🥈
+ > - SQL 🥈
+ > - JavaScript (en apprentissage) 🥉
 
 ### En cours d'apprentissage :
 
 J'apprends actuellement : 
  > - JavaScript
-   - Drupal
+ > - Drupal
 
 
 
