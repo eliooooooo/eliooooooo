@@ -22,9 +22,9 @@ Les projets que vous pourrez trouver sur on profil sont soit issus de mes **étu
 
 Je suis passioné par : 
  > - Le développement web 💻
-   - Les jeux vidéos 🎮
-   - L' art 👨‍🎨
-   - Le sport (Escalade, surf...) 🧗‍♂️
+ >  - Les jeux vidéos 🎮
+ >  - L' art 👨‍🎨
+ >  - Le sport (Escalade, surf...) 🧗‍♂️
 
 ### Mes langages de programmation maîtrisés :
 
